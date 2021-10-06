@@ -45,7 +45,7 @@ const Contact = styled.div`
     flex-direction: column;
 `;
 const Phone = styled.span`
-    color: #d85c71;
+    color: yellowgreen;
     font-weight: bold;
 `;
 
